@@ -1,8 +1,8 @@
 qsa=0
 r=0
-maxq=-2.5
-a=0.5
-g=0.9
+maxq=0
+a=0
+g=0
 
 r=int(input("Insira r: "))
 maxq=int(input("Insira MaxQ: "))
